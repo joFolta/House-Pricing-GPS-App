@@ -1,4 +1,4 @@
-![Preview](/img/preview.png)
+![Preview](public/img/preview.png)
 
 # 📷 House-Pricing-GPS-App
 
