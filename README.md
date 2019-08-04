@@ -1,3 +1,16 @@
+![Preview](/img/preview.png)
+
+# 📷 House-Pricing-GPS-App
+
+## DRAFT STAGE
+## DRAFT STAGE
+## DRAFT STAGE
+
+### Purpose:
+
+- Full-stack app that allows users to find their location and find the price of the nearest house.
+- Users can save their favorite houses
+
 ## IDEA:
 - look at REAL ESTATE Sites for CSS ideas/inspiration
 - add Directions from INPUT, output Est Commute/Driving Time (ex. to work)/draw route
@@ -9,7 +22,6 @@
 - add a marker/point https://docs.mapbox.com/mapbox-gl-js/example/drag-a-marker/
 
 ## TO DO:
-
 
 - change Database in database.js
 - add CRUD...first, "Save House" BUTTON -
@@ -58,13 +70,6 @@ https://docs.mapbox.com/mapbox.js/example/v1.0.0/marker-popup-onload/
   city: 120 Boylston St
   state: Boston
 
-# 📷 Project: Pixabay API
-
-![Preview](/img/preview.png)
-
-### Goal:
-
-- Create a front-end web app that returns a photo from high-quality image site Pixabay.
 
 ### References:
 - Fetching and Reading XML Data (6:23) https://www.youtube.com/watch?v=MDAWie2Sicc
@@ -72,4 +77,3 @@ https://docs.mapbox.com/mapbox.js/example/v1.0.0/marker-popup-onload/
 - Prevent CORS error https://github.com/Rob--W/cors-anywhere/#client
   Add https://cors-anywhere.herokuapp.com/ before fetched URL
 - HTML5 Geolocation https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
-# House-Pricing-GPS-App
